@@ -22,6 +22,8 @@ I will purchase the boards myself, as I am a distance student.
 
 I do not plan on using any open-source projects as of now, though this may change depending on how I want to implement a Command-and-Control scheme into the driver.
 
+At the moment, I plan to use the [Raspberry Pi Linux Project](https://github.com/raspberrypi/linux) as either a reference point or a direct include into the buildroot environment.
+
 ## Previously-Discussed Content
 
 This project may use a text-based command-and-control interface similar to the aesdsocket server, though I am unsure of the exact details. As of now, I will likely take the overarching structure of the socket server for the user space application.
@@ -42,4 +44,4 @@ The LED driver kernel module, command-and-control userspace application, and oth
 
 ## Schedule Page
 
-https://github.com/users/jauy2310/projects/4/views/1?groupedBy%5BcolumnId%5D=181545522
+[Schedule Page](https://github.com/users/jauy2310/projects/4/views/1?groupedBy%5BcolumnId%5D=181545522)
