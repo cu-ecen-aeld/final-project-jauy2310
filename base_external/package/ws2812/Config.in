@@ -1,0 +1,4 @@
+config BR2_PACKAGE_WS2812
+	bool "ws2812"
+	help
+		A kernel driver for WS2812 LED strips
