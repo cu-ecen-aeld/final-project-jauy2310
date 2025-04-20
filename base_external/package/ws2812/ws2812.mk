@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-WS2812_VERSION = 19944aba7c2ea493a42bc8c48dcbed10c5e298a3
+WS2812_VERSION = 8628b34ba0bc24dbb47742a883f75e3bdaec8524
 WS2812_SITE = git@github.com:jauy2310/final-project-jauy2310-modules.git
 WS2812_SITE_METHOD = git
 WS2812_GIT_SUBMODULES = YES
