@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PLATFORM_DRIVER_TEST
+	bool "platform_driver_test"
+	help
+		A platform driver test

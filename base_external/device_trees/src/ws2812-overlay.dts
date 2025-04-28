@@ -1,0 +1,15 @@
+/dts-v1/;
+/plugin/;
+
+/ {
+	compatible = "brcm,bcm2835";
+
+	fragment@0 {
+		target = <&soc>;
+		__overlay__ {
+			ws2812 {
+				compatible = "ws2812";
+			};
+		};
+	};
+};
