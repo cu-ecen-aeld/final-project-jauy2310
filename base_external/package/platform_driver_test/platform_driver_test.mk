@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-PLATFORM_DRIVER_TEST_VERSION = 86f54a4b43bd9ea24aa8b02fd5dd9093e549c67d 
+PLATFORM_DRIVER_TEST_VERSION = ba0a4aa31e543d6e5edda946699b293bdf959b1b 
 PLATFORM_DRIVER_TEST_SITE = git@github.com:jauy2310/final-project-jauy2310-modules.git
 PLATFORM_DRIVER_TEST_SITE_METHOD = git
 PLATFORM_DRIVER_TEST_GIT_SUBMODULES = YES
